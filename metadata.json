@@ -1,0 +1,7 @@
+{
+  "name": "AI Answer Sheet Grader",
+  "description": "An intelligent application that uses Gemini to analyze and grade student answer sheets. Upload a key, set scoring rules, and use your camera to scan and grade papers instantly, with results available for download.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
